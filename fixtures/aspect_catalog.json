@@ -1,0 +1,125 @@
+{
+  "version": "synthetic-aspect-v1",
+  "entries": [
+    {
+      "target_code": "02",
+      "stage_code": "18",
+      "aspect_code": "SYN_LOGIN",
+      "aspect_name": "로그인/인증",
+      "description": "합성 로그인 및 인증 사용 경험",
+      "quality_code": "SYN_EASE",
+      "quality_name": "이용 편의",
+      "keywords": [
+        "로그인",
+        "인증",
+        "지문",
+        "생체"
+      ],
+      "stage_name": "합성 로그인/인증"
+    },
+    {
+      "target_code": "02",
+      "stage_code": "19",
+      "aspect_code": "SYN_SEARCH",
+      "aspect_name": "검색 편의",
+      "description": "합성 메뉴 및 검색 경험",
+      "quality_code": "SYN_EASE",
+      "quality_name": "이용 편의",
+      "keywords": [
+        "검색",
+        "메뉴"
+      ],
+      "stage_name": "합성 메뉴 검색"
+    },
+    {
+      "target_code": "02",
+      "stage_code": "20",
+      "aspect_code": "SYN_PAYMENT",
+      "aspect_name": "결제 처리",
+      "description": "합성 결제 및 주문 경험",
+      "quality_code": "SYN_RELIABILITY",
+      "quality_name": "안정성",
+      "keywords": [
+        "결제",
+        "주문"
+      ],
+      "stage_name": "합성 결제"
+    },
+    {
+      "target_code": "02",
+      "stage_code": "18",
+      "aspect_code": "SYN_SPEED",
+      "aspect_name": "앱 응답속도",
+      "description": "합성 앱 응답 및 화면 로딩 경험",
+      "quality_code": "SYN_SPEED",
+      "quality_name": "신속성",
+      "keywords": [
+        "느리",
+        "느려",
+        "로딩",
+        "속도",
+        "빠르"
+      ],
+      "stage_name": "합성 로그인/인증"
+    },
+    {
+      "target_code": "07",
+      "stage_code": "04",
+      "aspect_code": "SYN_WAIT",
+      "aspect_name": "대기 시간",
+      "description": "합성 안내창구 대기 경험",
+      "quality_code": "SYN_SPEED",
+      "quality_name": "신속성",
+      "keywords": [
+        "대기",
+        "기다",
+        "기다렸"
+      ],
+      "stage_name": "합성 대기"
+    },
+    {
+      "target_code": "07",
+      "stage_code": "15",
+      "aspect_code": "SYN_EXPLAIN",
+      "aspect_name": "직원 설명",
+      "description": "합성 상담 설명 경험",
+      "quality_code": "SYN_GUIDE",
+      "quality_name": "안내",
+      "keywords": [
+        "설명",
+        "상담",
+        "친절"
+      ],
+      "stage_name": "합성 상담"
+    },
+    {
+      "target_code": "08",
+      "stage_code": "15",
+      "aspect_code": "SYN_SUPPORT",
+      "aspect_name": "고객센터 연결",
+      "description": "합성 상담 연결 경험",
+      "quality_code": "SYN_SPEED",
+      "quality_name": "신속성",
+      "keywords": [
+        "연결",
+        "고객센터",
+        "상담"
+      ],
+      "stage_name": "합성 상담"
+    },
+    {
+      "target_code": "09",
+      "stage_code": "07",
+      "aspect_code": "SYN_FEE",
+      "aspect_name": "수수료 안내",
+      "description": "합성 수수료 및 비용 경험",
+      "quality_code": "SYN_COST",
+      "quality_name": "비용",
+      "keywords": [
+        "수수료",
+        "비용"
+      ],
+      "stage_name": "합성 상품"
+    }
+  ]
+}

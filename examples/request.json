@@ -1,0 +1,14 @@
+{
+  "requestType": "analysis",
+  "isStream": true,
+  "analysis": {
+    "vocs": [
+      {
+        "vocId": "SYN-EXAMPLE-1",
+        "text": "앱 로그인 오류가 반복되어 정말 실망했습니다.",
+        "journeyCode": "18"
+      }
+    ],
+    "retryLimit": 1
+  }
+}

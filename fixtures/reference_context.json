@@ -1,0 +1,6 @@
+{
+  "version":"synthetic-reference-context-v1",
+  "exception_words":["합성제외용어"],
+  "previous_product_terms":{"02_SYN_LOGIN":["로그인","모바일 앱"]},
+  "previous_quality_terms":{"02_SYN_LOGIN":["오류","느려"]}
+}

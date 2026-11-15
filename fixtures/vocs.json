@@ -1,0 +1,13 @@
+[
+ {"voc_id":"SYN-001","text":"모바일 앱 로그인이 계속 오류가 나서 너무 짜증납니다.","journey_code":"18","journey_name":"로그인/인증"},
+ {"voc_id":"SYN-002","text":"직원이 상품 내용을 자세하고 친절하게 설명해 줘서 만족했습니다.","channel_code":"07","channel_name":"합성 서비스점","journey_code":"15"},
+ {"voc_id":"SYN-003","text":"앱 로그인은 편리하지만 화면이 조금 느려서 아쉽습니다.","journey_code":"18"},
+ {"voc_id":"SYN-004","text":"결제 도중 오류가 발생하여 주문하지 못해서 실망했습니다.","journey_code":"20"},
+ {"voc_id":"SYN-005","text":"더 편리한 메뉴 검색 기능이 생기길 기대합니다.","journey_code":"19"},
+ {"voc_id":"SYN-006","text":"안 녕"},
+ {"voc_id":"SYN-001","text":"동일한 업무키의 두 번째 응답은 중복으로 처리합니다.","journey_code":"18"},
+ {"voc_id":"SYN-007","text":"오늘 날씨가 맑아서 축구경기를 보러 나왔습니다.","journey_code":"00"},
+ {"voc_id":"SYN-008","text":"서비스 안내창구 대기시간은 길지 않았습니다. 직원은 친절하고 설명이 명확했습니다.","channel_code":"07","channel_name":"합성 서비스점","journey_code":"00"},
+ {"voc_id":"SYN-009","text":"앞으로 어떻게 바뀔지 의견을 더 작성하고 싶습니다.","journey_code":"00"},
+ {"voc_id":"SYN-010","text":"로그인 오류가 계속 납니다. 연락처는 010-0000-0000, demo@example.com 입니다.","journey_code":"18"}
+]

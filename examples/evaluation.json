@@ -1,0 +1,34 @@
+{
+  "data_origin": "hand-authored synthetic fixtures",
+  "network_calls": 0,
+  "provider": "offline-rule-reference-v1",
+  "fixture": {
+    "inputCount": 11,
+    "filteredCount": 3,
+    "reviewCount": 1
+  },
+  "stored_result_matches": true,
+  "sse_events": [
+    "START",
+    "STAGE",
+    "STAGE",
+    "STAGE",
+    "STAGE",
+    "STAGE",
+    "STAGE",
+    "CHUNK",
+    "DONE"
+  ],
+  "invalid_request_status": 422,
+  "unsupported_request_status": 501,
+  "ungrounded_reason": {
+    "status": "failed",
+    "error_code": "INVALID_ITEM_RESPONSE",
+    "attempts": 2,
+    "earlier_emotion_preserved": true
+  },
+  "timeout": {
+    "error_code": "TIMEOUT",
+    "attempts": 2
+  }
+}
